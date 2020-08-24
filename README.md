@@ -10,7 +10,7 @@
 #### Project Overview:
 Instagram clone - image sharing site created using only PHP, HTML, CSS and JavaScript.
 
-### Team Memebers & Main Repo
+### Team Members & Main Repo
 This project was completed in a team of 4. I worked alongside:
 - [jlimbada](https://github.com/JonathanLimbada)
 - [bwebb](https://github.com/bentenjamin)
